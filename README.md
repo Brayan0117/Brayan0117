@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, meu nome Brayan 👋
+
+Sou estudante do [Alura](https://www.alura.com.br/) START
+
+![](https://media.tenor.com/1fpGXO9aK4gAAAAi/neymar.gif)
 
 <!--
 **Brayan0117/Brayan0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
